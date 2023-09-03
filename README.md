@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @IvanZeman
-- 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ### About Me
 
 👋 Hi, I’m Ivan Zeman and I am an electrical engineer. I have completed high school and university education in this field. I also have several years of practical experience as an electrical engineer. 
@@ -22,11 +15,6 @@ I really like to work and I also like to learn new knowledge. Currently, I reall
 
   I'm currently learning programming in Java. Actually I'm taking a course for beginners – Java tutorials for beginners with Bro Code: 
   (https://www.youtube.com/watch?v=IyfB0u9g2x0&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=71)
-
-#### 🚀 Goals
-
-My goal is to earn pretty much money as a programmer specialist. No matter in which field.
-I'm excited to be a part of the vibrant developer community here on GitHub.
 
 #### 📫 Get in Touch
 
