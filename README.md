@@ -4,11 +4,7 @@
 Currently, I really enjoy industrial automation, designing and creating new electrical installations and programming in general.
 
 #### 🔧 Technologies & Tools
-- MATLAB
-- program C
-- Arduino
-- Soft Comfort (PLC programming - Siemens)
-- Java
+MATLAB, Program C, Arduino, Soft Comfort (Siemens), Java...
 
 #### 🌱 Current Projects
 
