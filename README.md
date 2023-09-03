@@ -1,7 +1,8 @@
 ### About Me
 
-👋 Hi, I’m Ivan Zeman and I am an electrical engineer. I have completed high school and university education in this field. I also have several years of practical experience as an electrical engineer. 
-I really like to work and I also like to learn new knowledge. Currently, I really enjoy industrial automation, designing and creating new electrical installations and programming in general.
+👋 Hi, I’m Ivan Zeman and I am an electrical engineer.
+Working as a maintance electrical enineer at LPH a.s. (Poprad-Matejovce, Slovak republic)
+Currently, I really enjoy industrial automation, designing and creating new electrical installations and programming in general.
 
 #### 🔧 Technologies & Tools
 
@@ -14,6 +15,10 @@ I really like to work and I also like to learn new knowledge. Currently, I reall
 #### 🌱 Current Projects
 
   I'm currently learning programming in Java. Actually I'm taking a course for beginners – Java tutorials for beginners with Bro Code: 
+  
+#### 🚀 Goals
+
+My goal is to work on awesome projects with awesome people around me as an electrical specialist – programmer
 
 #### 📫 Get in Touch
 
