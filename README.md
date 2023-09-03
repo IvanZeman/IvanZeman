@@ -14,7 +14,6 @@ I really like to work and I also like to learn new knowledge. Currently, I reall
 #### 🌱 Current Projects
 
   I'm currently learning programming in Java. Actually I'm taking a course for beginners – Java tutorials for beginners with Bro Code: 
-  (https://www.youtube.com/watch?v=IyfB0u9g2x0&list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&index=71)
 
 #### 📫 Get in Touch
 
