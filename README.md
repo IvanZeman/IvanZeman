@@ -2,13 +2,16 @@
 
 Hi, I’m Ivan Zeman and I am an electrical engineer working as a maintance electrical enineer at LPH a.s (Poprad-Matejovce). Currently, I really enjoy industrial automation, designing and creating new electrical installations and programming in general.
 
+
 🔧 Technologies & Tools
 
 MATLAB, Program C, Arduino, Soft Comfort (Siemens), Java...
 
+
 🌱 Current Projects
 
 GUI for vibration measurement and Arduino control
+
 
 🚀 Goals
 
